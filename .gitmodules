@@ -1,3 +1,6 @@
 [submodule "cmudict.git"]
 	path = cmudict
 	url = https://github.com/cmusphinx/cmudict.git
+[submodule "gutenberg-dammit.git"]
+	path = gutenberg-dammit
+	url = git@github.com:aparrish/gutenberg-dammit.git
